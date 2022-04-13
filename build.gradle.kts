@@ -9,7 +9,7 @@ repositories {
     mavenCentral()
 }
 
-version = "1.2"
+version = "1.3"
 group = "com.jespage"
 
 dependencies {
