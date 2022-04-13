@@ -30,7 +30,7 @@ gradlePlugin {
 }
 
 pluginBundle {
-    website = "https://jespage.com"
-    vcsUrl = website
+    website = "https://github.com/YesperP/aws-gradle-plugin"
+    vcsUrl = "https://github.com/YesperP/aws-gradle-plugin"
     tags = listOf("aws", "cdk")
 }
